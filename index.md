@@ -1,12 +1,10 @@
 # Hi! Welcomed to Kenry's User Page!
 >## Links to each section:
-- [Hi! Welcomed to Kenry's User Page!](#hi-welcomed-to-kenrys-user-page)
-  - [Self Introduction](#self-introduction)
-- [Things I have learned during week 0](#things-i-have-learned-during-week-0)
-  - [Github command](#github-command)
-  - [dynamic programming](#dynamic-programming)
-    - [learning outcome:](#learning-outcome)
-  - [Things I will do in next week](#things-i-will-do-in-next-week)
+>- [Self Introduction](#self-introduction)
+>- [Things I have learned during week 0](#things-i-have-learned-during-week-0)
+>    - [Github command](#github-command)
+>    - [dynamic programming](#dynamic-programming)
+>    - [Things I will do in next week](#things-i-will-do-in-next-week)
 ## Self Introduction
 >**Basic Info: I am currently a sophomore majoring computer science, to learn more about me, checkout this [relative link](/README.md). And this is a picture of me on a hiking trip &darr;**
 ![Image](me.jpeg)
