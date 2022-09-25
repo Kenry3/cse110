@@ -1,2 +1,2 @@
 # cse110
-Kenry's User Page
+java is my favoirte programming language!
